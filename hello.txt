@@ -24,15 +24,3 @@ GIT PUSH, subir al repositorio clonado en git hub
 git push origin <name de rama creada>
 
 //Hacer el comentario de pull request
-*OTROS COMANDOS*
-
-//another comentarios- 
-ELIMINAR ARCHIVO
-git rm <name.file>
-
-RESTAURAR ARCHIVO
-git restore <name.file>
-
-CAMBIAR DE NOMBRE ARCHIVO
-git mv <nombre_original> <nombre_nuevo>
-
