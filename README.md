@@ -25,3 +25,7 @@ git push origin <name de rama creada>
 
 //Hacer el comentario de pull request
 *OTROS COMANDOS*
+
+//another comentarios- corregidos- No cerrar pull request
+.......
+------
