@@ -36,3 +36,6 @@ git restore <name.file>
 CAMBIAR DE NOMBRE ARCHIVO
 git mv <nombre_original> <nombre_nuevo>
 
+CAMBIAR DE RAMA
+git switch <name-rama>
+
