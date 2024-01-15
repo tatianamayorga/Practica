@@ -39,3 +39,18 @@ git mv <nombre_original> <nombre_nuevo>
 CAMBIAR DE RAMA
 git switch <name-rama>
 
+FUSIONAR RAMA CON LA RAMA PRINCIPAL
+git merge -m "Fusionar rama Fix-Readme con rama principal" <name.rama_Fix-Readme>
+
+ELIMINAR RAMA
+git branch -d <name.rama>  
+
+CAMBIA DE RAMA Y CREA UNA NUEVA RAMA
+git switch -c <name.rama.new>
+
+-REALIZA CAMBIOS EN AMBAS RAMAS
+-GUARDALOS
+-INTENTA FUSIONARLAS. SE CREA UN CONFLICTO
+-INGRESA AL ARCHIVO
+	HEAD, se refiere a cual es la realidad actual o lo que hay actualmente
+	Abajo esta el texto que se intent cambiar de la rama segundaria a la rama principal. Borrar lo que esta en HEAD. Para conservar lo de abajo.
