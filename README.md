@@ -54,3 +54,10 @@ git switch -c <name.rama.new>
 -INGRESA AL ARCHIVO
 	HEAD, se refiere a cual es la realidad actual o lo que hay actualmente
 	Abajo esta el texto que se intent cambiar de la rama segundaria a la rama principal. Borrar lo que esta en HEAD. Para conservar lo de abajo.
+
+Para ver commits pasados
+git log
+
+restaurar un commit pasado
+git checkout <id_commit>
+
